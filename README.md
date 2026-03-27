@@ -6,9 +6,6 @@ It explores the integration of blockchain into game systems while keeping gamepl
 The goal is to make interactions more intuitive by allowing players to manage in-game actions naturally, while optionally enabling blockchain features such as item ownership and trading.
 ## Demo
 - Video: [(link YouTube)](https://youtu.be/saugFCoPDqw)
-## Screenshots
-<img width="953" height="580" alt="image" src="https://github.com/user-attachments/assets/a26cf637-5d74-45d2-88aa-ef6ab3741dfa" />
-<img width="1287" height="712" alt="image" src="https://github.com/user-attachments/assets/78f97334-42f7-4142-a8ce-3c53a5a33f6e" />
 ## Features
 - Multiplayer system using master-client model
 - Basic RPG gameplay: combat, enemies, map
@@ -23,3 +20,7 @@ The goal is to make interactions more intuitive by allowing players to manage in
 - Multiplayer architecture: master-client
 - Basic state synchronization for gameplay
 - Integration with blockchain for asset ownership
+## Screenshots
+<img width="953" height="580" alt="image" src="https://github.com/user-attachments/assets/a26cf637-5d74-45d2-88aa-ef6ab3741dfa" />
+<img width="1287" height="712" alt="image" src="https://github.com/user-attachments/assets/78f97334-42f7-4142-a8ce-3c53a5a33f6e" />
+
